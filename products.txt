@@ -1,0 +1,318 @@
+<#
+Acceptable WSUS Classifications
+Title              ID                                  
+-----              --                                  
+Applications       5c9376ab-8ce6-464a-b136-22113dd69801
+Critical Updates   e6cf1350-c01b-414d-a61f-263d14d133b4
+Definition Updates e0789628-ce08-4437-be74-2495b842f43b
+Driver Sets        77835c8d-62a7-41f5-82ad-f28d1af1e3b1
+Drivers            ebfc1fc5-71a4-4f7b-9aca-3b9a503104a0
+Feature Packs      b54e7d24-7add-428f-8b75-90a396fa584f
+Security Updates   0fa1201d-4330-4fa8-8ae9-b877473b6441
+Service Packs      68c5b0a3-d1a6-4553-ae49-01d3a7827828
+Tools              b4832bd8-e735-4761-8daf-37f882276dab
+Update Rollups     28bc880e-0592-4cbf-8f95-c79b17911d5f
+Updates            cd5ffd1e-e932-4e3a-bf74-18bf0b1bbd83
+Upgrades           3689bdc8-b205-4af4-8d4a-a63924c5e9d5
+Acceptable Wsus Product
+Title                                                                               ID                                  
+-----                                                                               --                                  
+Active Directory Rights Management Services Client 2.0                              fdcfda10-5b1f-4e57-8298-c744257e30db
+Active Directory                                                                    57742761-615a-4e06-90bb-008394eaea47
+Antigen for Exchange/SMTP                                                           5d6a452a-55ba-4e11-adac-85e180bda3d6
+Antigen                                                                             116a3557-3847-4858-9f03-38e94b977456
+ASP.NET Web and Data Frameworks                                                     4756f399-b049-8e6e-94e9-ff63d0e236a7
+ASP.NET Web Frameworks                                                              fa5ef799-b817-439e-abf7-c76ba0cacb75
+Azure File Sync agent updates for Windows Server 2012 R2                            fb08c71c-dbe9-40ab-8302-fb0231b1c814
+Azure File Sync agent updates for Windows Server 2016                               7ff1d901-fd38-441b-aaba-36d7b0ebf264
+Azure File Sync                                                                     9d6f2556-534f-047e-5ec9-91bf0da81a75
+Bing Bar                                                                            b86cf33d-92ac-43d2-886b-be8a12f81ee1
+Bing                                                                                2b496c37-f722-4e7b-8467-a7ad1e29e7c1
+BizTalk Server 2002                                                                 34aae785-2ae3-446d-b305-aec3770edcef
+BizTalk Server 2006R2                                                               86b9f801-b8ec-4d16-b334-08fba8567c17
+BizTalk Server 2009                                                                 b61793e6-3539-4dc8-8160-df71054ea826
+BizTalk Server 2013                                                                 61487ade-9a4e-47c9-baa5-f1595bcdc5c5
+BizTalk Server                                                                      ed036c16-1bd6-43ab-b546-87c080dfd819
+CAPICOM                                                                             83aed513-c42d-4f94-b4dc-f2670973902d
+Category for System Center Online Client                                            236c566b-aaa6-482c-89a6-1e6c5cac6ed8
+Compute Cluster Pack                                                                ac615cb5-1c12-44be-a262-fab9cd8bf523
+Data Protection Manager 2006                                                        eb658c03-7d9f-4bfa-8ef3-c113b7466e73
+Developer Tools, Runtimes, and Redistributables                                     48ce8c86-6850-4f68-8e9d-7dc8535ced60
+Device Health                                                                       0bbd2260-7478-4553-a791-21ab88e437d2
+Device Health                                                                       89068f3d-2b20-52b8-7ff9-cf27ab16e84d
+Dictionary Updates for Microsoft IMEs                                               f76b7f51-b762-4fd0-a35c-e04f582acf42
+Exchange 2000 Server                                                                83a83e29-7d55-44a0-afed-aea164bc35e6
+Exchange Server 2003                                                                3cf32f7c-d8ee-43f8-a0da-8b88a6f8af1a
+Exchange Server 2007 and Above Anti-spam                                            ab62c5bd-5539-49f6-8aea-5a114dd42314
+Exchange Server 2007                                                                26bb6be1-37d1-4ca6-baee-ec00b2f7d0f1
+Exchange Server 2010                                                                9b135dd5-fc75-4609-a6ae-fb5d22333ef0
+Exchange Server 2013                                                                d3d7c7a6-3e2f-4029-85bf-b59796b82ce7
+Exchange Server 2016                                                                49c3ddde-4df2-4534-980c-83f4e27b23b5
+Exchange                                                                            352f9494-d516-4b40-a21a-cd2416098982
+Expression Design 1                                                                 fa9ff215-cfe0-4d57-8640-c65f24e6d8e0
+Expression Design 2                                                                 f3b1d39b-6871-4b51-8b8c-6eb556c8eee1
+Expression Design 3                                                                 18a2cff8-9fd2-487e-ac3b-f490e6a01b2d
+Expression Design 4                                                                 9119fae9-3fdd-4c06-bde7-2cbbe2cf3964
+Expression Media 2                                                                  5108d510-e169-420c-9a4d-618bdb33c480
+Expression Media V1                                                                 d8584b2b-3ac5-4201-91cb-caf6d240dc0b
+Expression Web 3                                                                    a33f42ac-b33f-4fd2-80a8-78b3bfa6a142
+Expression Web 4                                                                    3b1e1746-d99b-42d4-91fd-71d794f97a4d
+Expression                                                                          ca9e8c72-81c4-11dc-8284-f47156d89593
+Firewall Client for ISA Server                                                      d72155f3-8aa8-4bf7-9972-0a696875b74e
+Forefront Client Security                                                           0a487050-8b0f-4f81-b401-be4ceacd61cd
+Forefront Endpoint Protection 2010                                                  a38c835c-2950-4e87-86cc-6911a52c34a3
+Forefront Identity Manager 2010 R2                                                  86134b1c-cf56-4884-87bf-5c9fe9eb526f
+Forefront Identity Manager 2010                                                     d7d32245-1064-4edf-bd09-0218cfb6a2da
+Forefront Protection Category                                                       a6432e15-a446-44af-8f96-0475c472aef6
+Forefront Server Security Category                                                  f54d8a80-c7e1-476c-9995-3d6aee4bfb58
+Forefront Threat Management Gateway, Definition Updates for HTTP Malware Inspection 84a54ea9-e574-457a-a750-17164c1d1679
+Forefront TMG MBE                                                                   06bdf56c-1360-4bb9-8997-6d67b318467c
+Forefront TMG                                                                       59f07fb7-a6a1-4444-a9a9-fb4b80138c6d
+Forefront                                                                           f8c3c9a9-10de-4f09-bc16-5eb1b861fb4c
+HealthVault Connection Center Upgrades                                              d84d138e-8423-4102-b317-91b1339aa9c9
+HealthVault Connection Center                                                       2e068336-2ead-427a-b80d-5b0fffded7e7
+Host Integration Server 2000                                                        0c6af366-17fb-4125-a441-be87992b953a
+Host Integration Server 2004                                                        784c9f6d-959a-433f-b7a3-b2ace1489a18
+Host Integration Server 2006                                                        eac7e88b-d8d4-4158-a828-c8fc1325a816
+Host Integration Server 2009                                                        42b678ae-2b57-4251-ae57-efbd35e7ae96
+Host Integration Server 2010                                                        3f3b071e-c4a6-4bcc-b6c1-27122b235949
+HPC Pack 2008                                                                       5964c9f1-8e72-4891-a03a-2aed1c4115d2
+HPC Pack                                                                            4f93eb69-8b97-4677-8de4-d3fca7ed10e6
+Internet Security and Acceleration Server 2004                                      b627a8ff-19cd-45f5-a938-32879dd90123
+Internet Security and Acceleration Server 2006                                      2cdbfa44-e2cb-4455-b334-fce74ded8eda
+Internet Security and Acceleration Server                                           0580151d-fd22-4401-aa2b-ce1e3ae62bc9
+Local Publisher                                                                     7c40e8c2-01ae-47f5-9af2-6e75a0582518
+Locally published packages                                                          5cc25303-143f-40f3-a2ff-803a1db69955
+Microsoft Advanced Threat Analytics                                                 2e97a7d7-8256-58ef-2fb6-48cbacdb603d
+Microsoft Advanced Threat Analytics                                                 6ac905a5-286b-43eb-97e2-e23b3848c87d
+Microsoft Application Virtualization 4.5                                            00b2d754-4512-4278-b50b-d073efb27f37
+Microsoft Application Virtualization 4.6                                            c755e211-dc2b-45a7-be72-0bdc9015a63b
+Microsoft Application Virtualization 5.0                                            1406b1b4-5441-408f-babc-9dcb5501f46f
+Microsoft Application Virtualization                                                523a2448-8b6c-458b-9336-307e1df6d6a6
+Microsoft Azure Information Protection Client                                       8f7c8263-d1eb-4144-89f6-fd568ec1364b
+Microsoft Azure Information Protection                                              e5ce648e-9823-8906-7a57-c57bd849dab2
+Microsoft Azure Site Recovery Provider                                              e903c733-c905-4b1c-a5c4-3528b6bbc746
+Microsoft Azure                                                                     23b3da8b-060e-4517-a431-3cb10f040794
+Microsoft BitLocker Administration and Monitoring v1                                7e903438-3690-4cf0-bc89-2fc34c26422b
+Microsoft BitLocker Administration and Monitoring                                   c8c19432-f207-4d9d-ab10-764f3d29744d
+Microsoft Dynamics CRM 2011 SHS                                                     587f7961-187a-4419-8972-318be1c318af
+Microsoft Dynamics CRM 2011                                                         2f3d1aba-2192-47b4-9c8d-87b41f693af4
+Microsoft Dynamics CRM 2013                                                         260d4ca6-768f-4e3e-9285-c30693bb7bc1
+Microsoft Dynamics CRM 2015                                                         3a78cd53-79b0-43a6-82f6-d9d6b9eec011
+Microsoft Dynamics CRM 2016 SHS                                                     25af568d-88b3-4cad-b694-07bc7f6adf24
+Microsoft Dynamics CRM 2016                                                         734658e2-c499-46ac-953f-287b14deeb44
+Microsoft Dynamics CRM                                                              0dbc842c-730f-4361-8811-1b048f11c09b
+Microsoft HealthVault                                                               e7ba9d21-4c88-4f88-94cb-a23488e59ebd
+Microsoft Lync 2010                                                                 5e870422-bd8f-4fd2-96d3-9c5d9aafda22
+Microsoft Lync Server 2010                                                          04d85ac2-c29f-4414-9cb6-5bcd6c059070
+Microsoft Lync Server 2013                                                          01ce995b-6e10-404b-8511-08142e6b814e
+Microsoft Lync Server and Microsoft Lync                                            2af51aa0-509a-4b1d-9218-7e7508f05ec3
+Microsoft Monitoring Agent (MMA)                                                    64da29af-92b5-c36a-fab2-682350a63c2f
+Microsoft Monitoring Agent                                                          f3869cc3-897b-4339-bb10-32ab2c765862
+Microsoft Online Services Sign-In Assistant                                         b0247430-6f8d-4409-b39b-30de02286c71
+Microsoft Online Services                                                           935c5617-d17a-37cc-dbcf-423e5beab8ea
+Microsoft Research AutoCollage 2008                                                 a8f50393-2e42-43d1-aaf0-92bec8b60775
+Microsoft Research AutoCollage                                                      0f3412f2-3405-4d86-a0ff-0ede802227a8
+Microsoft Security Essentials                                                       b567e54e-648b-4ac6-9171-149a19a73da8
+Microsoft SQL Server 2008 R2 - PowerPivot for Microsoft Excel 2010                  e9ece729-676d-4b57-b4d1-7e0ab0589707
+Microsoft SQL Server 2012                                                           56750722-19b4-4449-a547-5b68f19eee38
+Microsoft SQL Server 2014                                                           caab596c-64f2-4aa9-bbe3-784c6e2ccf9c
+Microsoft SQL Server 2016                                                           93f0b0bc-9c20-4ca5-b630-06eb4706a447
+Microsoft SQL Server 2017                                                           ca6616aa-6310-4c2d-a6bf-cae700b85e86
+Microsoft SQL Server Management Studio v17                                          dee854fd-e9d2-43fd-bbc3-f7568e3ce324
+Microsoft SQL Server PowerPivot for Excel                                           fe324c6a-dac1-aca8-9916-db718e48fa3a
+Microsoft StreamInsight V1.0                                                        a73eeffa-5729-48d4-8bf4-275132338629
+Microsoft StreamInsight                                                             4c1a298e-8dbd-5d8b-a52f-6c176fdd5904
+Microsoft System Center Data Protection Manager                                     5ef2c723-3e0b-4f87-b719-78b027e38087
+Microsoft System Center DPM 2010                                                    bf6a6018-83f0-45a6-b9bf-074a78ec9c82
+Microsoft System Center Virtual Machine Manager 2007                                29fd8922-db9e-4a97-aa00-ca980376b738
+Microsoft System Center Virtual Machine Manager 2008                                7e5d0309-78dd-4f52-a756-0259f88b634b
+Microsoft Works 8                                                                   b790e43b-f4e4-48b4-9f0c-499194f00841
+Microsoft Works 9                                                                   e9c87080-a759-475a-a8fa-55552c8cd3dc
+Microsoft                                                                           56309036-4c77-4dd9-951a-99ee9c246a94
+MS Security Essentials                                                              6b9e8b26-8f50-44b9-94c6-7846084383ec
+Network Monitor 3                                                                   4217668b-66f0-42a0-911e-a334a5e4dbad
+Network Monitor                                                                     35c4463b-35dc-42ac-b0ba-1d9b5c505de2
+New Dictionaries for Microsoft IMEs                                                 8508af86-b85e-450f-a518-3b6f8f204eea
+Office 2002/XP                                                                      6248b8b1-ffeb-dbd9-887a-2acf53b09dfe
+Office 2003                                                                         1403f223-a63f-f572-82ba-c92391218055
+Office 2007                                                                         041e4f9f-3a3d-4f58-8b2f-5e6fe95c4591
+Office 2010                                                                         84f5f325-30d7-41c4-81d1-87a0e6535b66
+Office 2013                                                                         704a0a4a-518f-4d69-9e03-10ba44198bd5
+Office 2016                                                                         25aed893-7c2d-4a31-ae22-28ff8ac150ed
+Office 365 Client                                                                   30eb551c-6288-4716-9a78-f300ec36d72b
+Office Communications Server 2007 R2                                                22bf57a8-4fe1-425f-bdaa-32b4f655284b
+Office Communications Server 2007                                                   e164fc3d-96be-4811-8ad5-ebe692be33dd
+Office Communications Server And Office Communicator                                504ae250-57c5-484a-8a10-a2c35ea0689b
+Office Communicator 2007 R2                                                         8bc19572-a4b6-4910-b70d-716fecffc1eb
+Office Live Add-in                                                                  ec231084-85c2-4daf-bfc4-50bbe4022257
+Office Live                                                                         03c7c488-f8ed-496c-b6e0-be608abb8a79
+Office                                                                              477b856e-65c4-4473-b621-a8b230bb70d9
+OneCare Family Safety Installation                                                  d123907b-ba63-40cb-a954-9b8a4481dded
+OOBE ZDP                                                                            dd78b8a1-0b20-45c1-add6-4da72e9364cf
+Photo Gallery Installation and Upgrades                                             f0474daf-de38-4b6e-9ad6-74922f6f539d
+Report Viewer 2005                                                                  7cf56bdd-5b4e-4c04-a6a6-706a2199eff7
+Report Viewer 2008                                                                  79adaa30-d83b-4d9c-8afd-e099cf34855f
+Report Viewer 2010                                                                  f7f096c9-9293-422d-9be8-9f6e90c2e096
+SDK Components                                                                      9f9b1ace-a810-11db-bad5-f7f555d89593
+Search Enhancement Pack                                                             ce62f77a-28f3-4d4b-824f-0f9b53461d67
+Security Essentials                                                                 6cf036b9-b546-4694-885a-938b93216b66
+Service Bus for Windows Server 1.1                                                  50bb1d21-f01a-451c-9b1f-6c41e3c43ee7
+Silverlight                                                                         9f3dd20a-1004-470e-ba65-3dc62d982958
+Silverlight                                                                         fe729f7e-3945-11dc-8e0c-cd1356d89593
+Skype for Business Server 2015, SmartSetup                                          bec76be5-7aa9-497f-b70b-5fd1cfd1e3b1
+Skype for Business Server 2015                                                      8184d953-8366-4e13-8566-df0e15aca108
+Skype for Business                                                                  8fdc8b60-9e7c-4275-8668-198f89a64df6
+Skype for Windows                                                                   6750007f-c908-4f2c-8aff-48ca6d36add6
+Skype                                                                               1e602215-b397-46ca-b1a8-7ea0059517bc
+SQL Server 2000                                                                     7145181b-9556-4b11-b659-0162fa9df11f
+SQL Server 2005                                                                     60916385-7546-4e9b-836e-79d65e517bab
+SQL Server 2008 R2                                                                  bb7bc3a7-857b-49d4-8879-b639cf5e8c3c
+SQL Server 2008                                                                     c5f0b23c-e990-4b71-9808-718d353f533a
+SQL Server 2012 Product Updates for Setup                                           7fe4630a-0330-4b01-a5e6-a77c7ad34eb0
+SQL Server 2014-2016 Product Updates for Setup                                      892c0584-8b03-428f-9a74-224fcd6887c0
+SQL Server Feature Pack                                                             c96c35fc-a21f-481b-917c-10c4f64792cb
+SQL Server                                                                          0a4c6c73-8887-4d7f-9cbe-d08fa8fa9d1e
+System Center 2012 - App Controller                                                 daa70353-99b4-4e04-b776-03973d54d20f
+System Center 2012 - Data Protection Manager                                        b0c3b58d-1997-4b68-8d73-ab77f721d099
+System Center 2012 - Operations Manager                                             bf05abfb-6388-4908-824e-01565b05e43a
+System Center 2012 - Orchestrator                                                   ab8df9b9-8bff-4999-aee5-6e4054ead976
+System Center 2012 - Virtual Machine Manager                                        6ed4a93e-e443-4965-b666-5bc7149f793c
+System Center 2012 R2 - Data Protection Manager                                     e54f3c9b-eec3-48f4-a791-ef1e2b0586d0
+System Center 2012 R2 - Operations Manager                                          2a9170d5-3434-4820-885c-61a4f3fc6f84
+System Center 2012 R2 - Orchestrator                                                6ddf2e90-4b40-471c-a664-6cd6b7e0d0a7
+System Center 2012 R2 - Virtual Machine Manager                                     8a3485af-4301-43e1-b2d9-f9ddb7576125
+System Center 2012 SP1 - App Controller                                             50d71efd-1e60-4898-9ef5-f31a77bde4b0
+System Center 2012 SP1 - Data Protection Manager                                    dd6318d7-1cff-44ed-a0b1-9d410c196792
+System Center 2012 SP1 - Operation Manager                                          80d30b43-f814-41fd-b7c5-85c91ea66c45
+System Center 2012 SP1 - Virtual Machine Manager                                    ba649061-a2bd-42a9-b7c3-825ce12c3cd6
+System Center 2016 - Data Protection Manager                                        bc48031f-9353-4db2-a305-541e324374e2
+System Center 2016 - Operations Manager                                             cc4ab3ac-9d9a-4f53-97d3-e0d6de39d119
+System Center 2016 - Orchestrator                                                   e505a854-6941-484f-a107-ebf0d1b64820
+System Center 2016 - Virtual Machine Manager                                        d06f861b-2952-4063-bad5-ae8212746a61
+System Center Advisor                                                               ae4500e9-17b0-4a78-b088-5b056dbf452b
+System Center Configuration Manager 2007                                            d22b3d16-bc75-418f-b648-e5f3d32490ee
+System Center Online                                                                23f5eb29-ddc6-4263-9958-cf032644deea
+System Center Virtual Machine Manager                                               9476d3f6-a119-4d6e-9952-8ad28a55bba6
+System Center                                                                       26a5d0a5-b108-46f1-93fa-f2a9cf10d029
+Systems Management Server 2003                                                      5a456666-3ac5-4162-9f52-260885d6533a
+Systems Management Server                                                           78f4e068-1609-4e7a-ac8e-174288fa70a1
+Threat Management Gateway Definition Updates for Network Inspection System          ae4483f4-f3ce-4956-ae80-93c18d8886a6
+TMG Firewall Client                                                                 cd8d80fe-5b55-48f1-b37a-96535dca6ae7
+Virtual PC                                                                          c8a4436c-1043-4288-a065-0f37e9640d60
+Virtual Server                                                                      6d992428-3b47-4957-bb1a-157bd8c73d38
+Virtual Server                                                                      f61ce0bd-ba78-4399-bb1c-098da328f2cc
+Visual Studio 2005                                                                  a0dd7e72-90ec-41e3-b370-c86a245cd44f
+Visual Studio 2008                                                                  e3fde9f8-14d6-4b5c-911c-fba9e0fc9887
+Visual Studio 2010 Tools for Office Runtime                                         cbfd1e71-9d9e-457e-a8c5-500c47cfe9f3
+Visual Studio 2010 Tools for Office Runtime                                         e1c753f2-9f79-4577-b75b-913f4230feee
+Visual Studio 2010                                                                  c9834186-a976-472b-8384-6bb8f2aa43d9
+Visual Studio 2012                                                                  abddd523-04f4-4f8e-b76f-a6c84286cc67
+Visual Studio 2013                                                                  cf4aa0fc-119d-4408-bcba-181abb69ed33
+Windows 10 and later drivers                                                        05eebf61-148b-43cf-80da-1c99ab0b8699
+Windows 10 and later upgrade & servicing drivers                                    34f268b4-7e2d-40e1-8966-8bb6ea3dad27
+Windows 10 Anniversary Update and Later Servicing Drivers                           bab879a4-c1af-4b52-9617-0f9ae1286fb6
+Windows 10 Anniversary Update and Later Upgrade & Servicing Drivers                 0ba562e6-a6ba-490d-bdce-93a770ba8d21
+Windows 10 Creators Update and Later Servicing Drivers                              cfe7182c-14a0-4d7e-9f5e-505d5c3a66f6
+Windows 10 Creators Update and Later Servicing Drivers                              f5b5092c-d05e-4eb1-8a6a-919770378ff6
+Windows 10 Creators Update and Later Upgrade & Servicing Drivers                    06da2f0c-7937-4e28-b46c-a37317eade73
+Windows 10 Dynamic Update                                                           e4b04398-adbd-4b69-93b9-477322331cd3
+Windows 10 Fall Creators Update and Later Servicing Drivers                         876ad18f-f41d-442a-ac64-f5c5ce74cc83
+Windows 10 Fall Creators Update and Later Upgrade & Servicing Drivers               c70f1038-66ac-443d-9e58-ac22e891e4fb
+Windows 10 Feature On Demand                                                        e104dd76-2895-41c4-9eb5-c483a61e9427
+Windows 10 GDR-DU FOD                                                               3efabf46-3037-4c85-a752-3189e574b621
+Windows 10 GDR-DU LP                                                                6111a83d-7a6b-4a2c-a7c2-f222eebcabf4
+Windows 10 GDR-DU                                                                   abc45868-0c9c-4bc0-a36d-03d54113baf4
+Windows 10 Language Interface Packs                                                 7d247b99-caa2-45e4-9c8f-6d60d0aae35c
+Windows 10 Language Packs                                                           fc7c9913-7a1e-4b30-b602-3c62fffd9b1a
+Windows 10 LTSB                                                                     d2085b71-5f1f-43a9-880d-ed159016d5c6
+Windows 10 S and Later Servicing Drivers                                            c1006636-eab4-4b0b-b1b0-d50282c0377e
+Windows 10 S Version 1709 and Later Servicing Drivers for testing                   bb06ba08-3df8-4221-8794-18effb79156a
+Windows 10 S Version 1709 and Later Upgrade & Servicing Drivers for testing         b7f52cfb-c9e9-4481-9bc0-c8b4e208ba39
+Windows 10                                                                          a3c2375d-0c8a-42f9-bce0-28333e198407
+Windows 2000                                                                        3b4b8621-726e-43a6-b43b-37d07ec7019f
+Windows 7                                                                           bfe5b177-a086-47a0-b102-097e4fa1f807
+Windows 8 Dynamic Update                                                            393789f5-61c1-4881-b5e7-c47bcca90f94
+Windows 8 Embedded                                                                  589db546-7849-47f5-bbc0-1f66cf12f5c2
+Windows 8 Language Interface Packs                                                  3e5cc385-f312-4fff-bd5e-b88dcf29b476
+Windows 8 Language Packs                                                            97c4cee8-b2ae-4c43-a5ee-08367dab8796
+Windows 8.1 and later drivers                                                       405706ed-f1d7-47ea-91e1-eb8860039715
+Windows 8.1 Drivers                                                                 f7b29b7a-086b-43f9-9cc8-e1a2f8a31e08
+Windows 8.1 Dynamic Update                                                          18e5ea77-e3d1-43b6-a0a8-fa3dbcd42e93
+Windows 8.1 Language Interface Packs                                                14a011c7-d17b-4b71-a2a4-051807f4f4c6
+Windows 8.1 Language Packs                                                          01030579-66d2-446e-8c65-538df07e0e44
+Windows 8.1                                                                         6407468e-edc7-4ecd-8c32-521f64cee65e
+Windows 8                                                                           2ee2ad83-828c-4405-9479-544d767993fc
+Windows Azure Pack - Web Sites                                                      c0ca76d3-e3af-42cd-bf0f-47bcc0ff797f
+Windows Azure Pack: Admin API                                                       1aea70f3-d989-4f89-9055-b0bc9945b75f
+Windows Azure Pack: Admin Authentication Site                                       983dabe5-e68d-4cb3-ae5e-6da88e66783f
+Windows Azure Pack: Admin Site                                                      2f1d3c10-1e92-487b-baba-2c1c645367b9
+Windows Azure Pack: Configuration Site                                              57869cb9-cd47-4ce4-acd5-caf49a0c713f
+Windows Azure Pack: Microsoft Best Practice Analyzer                                6102ab07-dd96-4407-8c82-2f2db7022248
+Windows Azure Pack: Monitoring Extension                                            10b00347-cd06-41fd-b7ba-32200693e114
+Windows Azure Pack: MySQL Extension                                                 71debf20-7fce-4e93-8a6c-4a3fad0313ec
+Windows Azure Pack: PowerShell API                                                  19243b1e-a4c1-4e87-80f4-fa8546ce4489
+Windows Azure Pack: SQL Server Extension                                            8516af00-35dc-4fd6-af4f-e1a9f117a882
+Windows Azure Pack: Tenant API                                                      2c25d763-d623-433f-b956-0de582e32b19
+Windows Azure Pack: Tenant Authentication Site                                      45afcceb-93c4-4ac3-909c-ca349acbc264
+Windows Azure Pack: Tenant Public API                                               3f50dcc0-6199-4ae0-a166-6d87d4e6f83e
+Windows Azure Pack: Tenant Site                                                     95a5f8e0-f2ab-4be6-bc4a-34d4b790192f
+Windows Azure Pack: Usage Extension                                                 9e185861-6465-41db-83c4-bb1480a55851
+Windows Azure Pack: Web App Gallery Extension                                       5c91542d-b573-44e9-a86d-b13b27cd98db
+Windows Azure Pack: Web Sites                                                       3c9e83e3-614d-4670-9205-cfcf3ea62a29
+Windows Azure Pack                                                                  bd282a5b-d44a-4ef0-9bba-2b9ad8b7c99e
+Windows Defender                                                                    8c3fcc84-7410-4a95-8b89-a166a0190486
+Windows Dictionary Updates                                                          50c04525-9b15-4f7c-bed4-87455bcd7ded
+Windows Embedded Developer Update                                                   f14be400-6024-429b-9459-c438db2978d4
+Windows Embedded Standard 7                                                         f4b9c883-f4db-4fb5-b204-3343c11fa021
+Windows Embedded                                                                    a36724a5-da1a-47b2-b8be-95e7cd9bc909
+Windows Essential Business Server 2008 Setup Updates                                6966a762-0c7c-4261-bd07-fb12b4673347
+Windows Essential Business Server 2008                                              e9b56b9a-0ca9-4b3e-91d4-bdcf1ac7d94d
+Windows Essential Business Server Preinstallation Tools                             649f3e94-ed2f-42e8-a4cd-e81489af357c
+Windows Essential Business Server                                                   41dce4a6-71dd-4a02-bb36-76984107376d
+Windows GDR-Dynamic Update                                                          470bd53a-c36a-448f-b620-91feede01946
+Windows Internet Explorer 7 Dynamic Installer                                       cb263e3f-6c5a-4b71-88fa-1706f9549f51
+Windows Internet Explorer 8 Dynamic Installer                                       5312e4f1-6372-442d-aeb2-15f2132c9bd7
+Windows Live Toolbar                                                                5ea45628-0257-499b-9c23-a6988fc5ea85
+Windows Live                                                                        0ea196ba-7a32-4e76-afd8-46bd54ecd3c6
+Windows Live                                                                        afd77d9e-f05a-431c-889a-34c23c9f9af5
+Windows Live                                                                        b3d0af68-8a86-4bfc-b458-af702f35930e
+Windows Media Dynamic Installer                                                     e88a19fb-a847-4e3d-9ae2-13c2b84f58a6
+Windows Next Graphics Driver Dynamic update                                         8c27cdba-6a1c-455e-af20-46b7771bbb96
+Windows RT 8.1                                                                      2c62603e-7a60-4832-9a14-cfdfd2d71b9a
+Windows RT                                                                          0a07aea1-9d09-4c1e-8dc7-7469228d8195
+Windows Safe OS Dynamic Update                                                      dd1aa213-54e7-4173-8456-b278964a26b6
+Windows Server 2003, Datacenter Edition                                             7f44c2a7-bc36-470b-be3b-c01b6dc5dd4e
+Windows Server 2003                                                                 dbf57a08-0d5a-46ff-b30c-7715eb9498e9
+Windows Server 2008 R2                                                              fdfe8200-9d98-44ba-a12a-772282bf60ef
+Windows Server 2008 Server Manager Dynamic Installer                                ec9aaca2-f868-4f06-b201-fb8eefd84cef
+Windows Server 2008                                                                 ba0ae9cc-5f01-40b4-ac3f-50192b5d6aaf
+Windows Server 2012 Language Packs                                                  26cbba0f-45de-40d5-b94a-3cbe5b761c9d
+Windows Server 2012 R2  and later drivers                                           f3c2263d-b256-4c49-a246-973c0e366449
+Windows Server 2012 R2 Drivers                                                      bfd3e48c-c96b-43fd-8b09-98cdc89dc77e
+Windows Server 2012 R2 Language Packs                                               8b4e84f6-595f-41ed-854f-4ca886e317a5
+Windows Server 2012 R2                                                              d31bd4c3-d872-41c9-a2e7-231f372588cb
+Windows Server 2012                                                                 a105a108-7c9b-4518-bbbe-73f0fe30012b
+Windows Server 2016 and Later Servicing Drivers                                     3c54bb6c-66d1-4a79-884c-8a0c96fa20d1
+Windows Server 2016                                                                 569e8e8f-c6cd-42c8-92a3-efbb20a0f6f5
+Windows Server Drivers                                                              323cceaf-b60b-4a0d-8a8a-3069efde76bf
+Windows Server Manager – Windows Server Update Services (WSUS) Dynamic Installer    4e487029-f550-4c22-8b31-9173f3f95786
+Windows Server Solutions Best Practices Analyzer 1.0                                eef074e9-61d6-4dac-b102-3dbe15fff3ea
+Windows Server Technical Preview Language Packs                                     0b378f2d-bff3-47dd-9b7f-5c9f966bdd81
+Windows Small Business Server 2003                                                  032e3af5-1ac5-4205-9ae5-461b4e8cd26d
+Windows Small Business Server 2008 Migration Preparation Tool                       7fff3336-2479-4623-a697-bcefcf1b9f92
+Windows Small Business Server 2008                                                  575d68e2-7c94-48f9-a04f-4b68555d972d
+Windows Small Business Server 2011 Standard                                         1556fc1d-f20e-4790-848e-90b7cdbedfda
+Windows Small Business Server                                                       68623613-134c-4b18-bcec-7497ac1bfcb0
+Windows Ultimate Extras                                                             e7441a84-4561-465f-9e0e-7fc16fa25ea7
+Windows Vista Dynamic Installer                                                     90e135fb-ef48-4ad0-afb5-10c4ceb4ed16
+Windows Vista Ultimate Language Packs                                               a901c1bd-989c-45c6-8da0-8dde8dbb69e0
+Windows Vista                                                                       26997d30-08ce-4f25-b2de-699c36a8033a
+Windows XP 64-Bit Edition Version 2003                                              a4bedb1d-a809-4f63-9b49-3fe31967b6d0
+Windows XP Embedded                                                                 874a7757-3a13-43b2-a7f2-cf2ff43dd6bf
+Windows XP x64 Edition                                                              4cb6ebd5-e38a-4826-9f76-1416a6f563b0
+Windows XP                                                                          558f4bc3-4827-49e1-accf-ea79fd72d4c9
+Windows                                                                             6964aab4-c5b5-43bd-a17d-ffb4346a8e1d
+Works 6-9 Converter                                                                 81b8c03b-9743-44b1-8c78-25e750921e36
+Works                                                                               2425de84-f071-4358-aac9-6bbd6e0bfaa7
+Writer Installation and Upgrades                                                    a13d331b-ce8f-40e4-8a18-227bf18f22f 
