@@ -86,9 +86,9 @@ Begin{
             $this.threads = $threads
             $this.refreshDays = $refreshDays
 
-            #$this.downloadWsusAgent()
-            #$this.downloadWd()
-            #$this.downloadCppDotNet()
+            $this.downloadWsusAgent()
+            $this.downloadWd()
+            $this.downloadCppDotNet()
 
             $this.downloadUpdates()
 
