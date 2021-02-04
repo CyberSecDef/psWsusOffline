@@ -151,7 +151,7 @@ Begin{
             invoke-expression("expand.exe '$($this.execPath)\storage\wua\package.cab' '$($this.execPath)\storage\wua\package.xml'")
 
             get-job | ? { $_.State -eq 'Completed' } | remove-job
-            write-$this.logger("INFO", "Finished Downloading WSUS Agent")
+            $this.logger("INFO", "Finished Downloading WSUS Agent")
         }
 
         downloadWd(){
